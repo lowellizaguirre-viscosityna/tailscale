@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=TailTray
+Comment=Local Tailscale tray controller
+Exec=tailtray
+Icon=tailtray-green
+Terminal=false
+Categories=Network;Utility;
+X-GNOME-Autostart-enabled=true

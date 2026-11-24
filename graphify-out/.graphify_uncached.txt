@@ -1,0 +1,9 @@
+/media/lowell/storage/github/tailscale/docs/AGENTS.md
+/media/lowell/storage/github/tailscale/docs/CHANGELOG-DEV.md
+/media/lowell/storage/github/tailscale/docs/CHANGELOG.md
+/media/lowell/storage/github/tailscale/docs/CLAUDE.md
+/media/lowell/storage/github/tailscale/docs/DECISIONS.md
+/media/lowell/storage/github/tailscale/docs/JOURNAL.md
+/media/lowell/storage/github/tailscale/docs/README.md
+/media/lowell/storage/github/tailscale/docs/STATE.md
+/media/lowell/storage/github/tailscale/instructions.md

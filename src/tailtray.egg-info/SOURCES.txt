@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/tailtray/__init__.py
+src/tailtray/__main__.py
+src/tailtray/app.py
+src/tailtray/client.py
+src/tailtray/models.py
+src/tailtray.egg-info/PKG-INFO
+src/tailtray.egg-info/SOURCES.txt
+src/tailtray.egg-info/dependency_links.txt
+src/tailtray.egg-info/entry_points.txt
+src/tailtray.egg-info/top_level.txt
+tests/test_client.py

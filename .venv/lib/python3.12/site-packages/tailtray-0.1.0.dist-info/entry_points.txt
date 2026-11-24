@@ -1,0 +1,2 @@
+[console_scripts]
+tailtray = tailtray.__main__:main

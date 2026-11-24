@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: tailtray
+Version: 0.1.0
+Summary: A small Linux tray controller for Tailscale
+Requires-Python: >=3.10
